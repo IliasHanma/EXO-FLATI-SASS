@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+
+    color: white;
+    width: 100%;
+    nav{
+        display: flex;
+        justify-content: space-around;
+        background-color:#3C454C;
+      
+
+         ul{
+            display: flex;
+            list-style: none;
+
+              li{
+                    justify-content: space-evenly;
+                    margin: 3%;
+
+
+                 a{
+        
+                    color: white;
+                    text-decoration: none;
+                 }
+            }
+        }    
+
+          
+
+               
+
+    }
+
+   div{
+       height: 300px;
+       width: 100%;
+       background-image: url(../../../Public/img/bg-header.png);
+   }
+
+       
+    
+}
